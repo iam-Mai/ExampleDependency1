@@ -1,7 +1,7 @@
 package P1;
 
 import P2.C7;
-import P3.P2.C5;
+import P3.C5;
 
 public class C2 {
     public void callC2() {

@@ -1,4 +1,4 @@
-package P3.P2;
+package P3;
 
 import P2.C4;
 

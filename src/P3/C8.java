@@ -1,4 +1,4 @@
-package P3.P2;
+package P3;
 
 public class C8 {
     public void callC8() {
